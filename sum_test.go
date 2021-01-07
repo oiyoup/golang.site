@@ -9,3 +9,4 @@ func TestSum(t *testing.T) {
         t.Error("Wrong result")
     }
 }
+
