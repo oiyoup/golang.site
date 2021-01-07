@@ -1,4 +1,4 @@
-package calc
+package golang_site
 
 func Sum(a ...int) int {
     sum := 0
